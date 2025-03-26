@@ -1,4 +1,4 @@
-/* Reset */
+
 * {
     margin: 0;
     padding: 0;
@@ -102,6 +102,7 @@ nav ul li a:hover {
     background-color: #a8d5a8;
     color: white;
     padding : 16px 20px;
+    
     font-size: 34px;
     border: none;
     border-radius: 30px;
@@ -204,7 +205,6 @@ nav ul li a:hover {
     font-weight: bold;
     margin-bottom: 10px;
     text-align: center;
-    /* color: #dcf5eb; */
     color: white;
     text-shadow: 2px 2px 5px rgba(0, 0, 0, 0.7);
     max-width: 80%;
@@ -309,7 +309,6 @@ article ul li strong{
     background-color: #e2f1e2;
 }
 
-/* Bagian Kiri: Judul & Rating */
 .content {
     max-width: 600px;
     text-align: center;
@@ -351,10 +350,6 @@ article ul li strong{
 
 .book-com{
     background-image: url("/OneDrive/Pictures/club2.png");
-    /* background-size: contain;
-    background-repeat: no-repeat;
-    background-position: center;
-    height: 400px; */
     display: block;
     background-size: cover;
     background-position: center;
