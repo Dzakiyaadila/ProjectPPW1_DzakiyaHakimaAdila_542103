@@ -189,7 +189,7 @@ nav ul li a:hover {
 }
 
 .rakBuku-placeholder{
-    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("/OneDrive/Pictures/find.jpg");
+    background-image:linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),url("gambar storynest/find.jpg");
     width: 100%;
     height: 190px;
     display: flex;
@@ -349,7 +349,7 @@ article ul li strong{
 
 
 .book-com{
-    background-image: url("/OneDrive/Pictures/club2.png");
+    background-image: url("gambar storynest/find.jpg");
     display: block;
     background-size: cover;
     background-position: center;
